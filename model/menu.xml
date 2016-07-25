@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menu>
+  <categories>
+    <category name="Pizzas">
+      <dish name="Tomato $amp; Cheese">
+        <description/>
+        <sizes>
+          <size name="small">
+            <price>5.50</price>
+          </size>
+          <size name="large">
+            <price>9.75</price>
+          </size>
+        </sizes>
+      </dish>
+      <dish name="Onions">
+        <description/>
+        <sizes>
+          <size name="small">
+            <price>6.85</price>
+          </size>
+          <size name="large">
+            <price>10.85</price>
+          </size>
+        </sizes>
+      </dish>
+      <dish name="Peppers">
+        <description/>
+        <sizes>
+          <size name="small">
+            <price>6.85</price>
+          </size>
+          <size name="large">
+            <price>10.85</price>
+          </size>
+        </sizes>
+      </dish>
+      <extras>
+        <extra name="Extra Cheese">
+          <description/>
+          <sizes>
+            <size name="Small">
+              <price>1.25</price>
+            </size>
+            <size name="Large">
+              <price>1.85</price>
+            </size>
+          </sizes>
+        </extra>
+      </extras>
+    </category>
+
+  </categories>
+</menu>
