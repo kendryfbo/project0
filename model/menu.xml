@@ -2,6 +2,7 @@
 
 <menu>
   <categories>
+    <!-- por determinar si incluir categoria <type name="pizzas"> > <category name=""> --> 
     <category name="Pizzas">
       <!-- Por determinar si incluir categoria dishes > dish -->
       <dish name="Tomato $amp; Cheese">
