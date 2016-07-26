@@ -3,53 +3,81 @@
 <menu>
   <categories>
     <category name="Pizzas">
+      <!-- Por determinar si incluir categoria dishes > dish -->
       <dish name="Tomato $amp; Cheese">
         <description/>
-        <sizes>
-          <size name="small">
-            <price>5.50</price>
-          </size>
-          <size name="large">
-            <price>9.75</price>
-          </size>
-        </sizes>
+        <prices>
+          <price name="small">5.50</price>
+          <price name="large">9.75</price>
+        </prices>
       </dish>
       <dish name="Onions">
         <description/>
-        <sizes>
-          <size name="small">
-            <price>6.85</price>
-          </size>
-          <size name="large">
-            <price>10.85</price>
-          </size>
-        </sizes>
+        <prices>
+          <price name="small">6.85</price>
+          <price name="large">10.85</price>
+        </prices>
       </dish>
       <dish name="Peppers">
         <description/>
-        <sizes>
-          <size name="small">
-            <price>6.85</price>
-          </size>
-          <size name="large">
-            <price>10.85</price>
-          </size>
-        </sizes>
+        <prices>
+          <price name="small">6.85</price>
+          <price name="large">10.85</price>
+        </prices>
       </dish>
       <extras>
         <extra name="Extra Cheese">
           <description/>
-          <sizes>
-            <size name="Small">
-              <price>1.25</price>
-            </size>
-            <size name="Large">
-              <price>1.85</price>
-            </size>
-          </sizes>
+          <prices>
+            <price name="small">1.25</price>
+            <price name="large">1.85</price>
+          </prices>
         </extra>
       </extras>
     </category>
-
+    <category name="Speciality Pizzas">
+      <dish name="Three Aces Special">
+        <description/>
+        <prices>
+          <price name="small">9.80</price>
+          <price name="large">15.80</price>
+        </prices>
+      </dish>
+      <dish name="Mediterranean">
+        <description>Slice Tomatoes, Olives, Spinach, Fresh Garlic, Mozzarella $amp; Feta Chesse</description>
+        <prices>
+          <price name="small">9.80</price>
+          <price name="large">15.80</price>
+        </prices>
+      </dish>
+      <dish name="Vegetarian">
+        <description>Slice Tomatoes, Onion, Peppers, Mushrooms, Broccoli, Mozzarella<description>
+          <prices>
+            <price name="small">9.80</price>
+            <price name="large">15.80</price>
+          </prices>
+      </dish>
+    </category>
+    <category name="Special Dinners">
+      <dish name="Chiken Wing Dinner">
+        <description></description>
+        <prices>
+          <price name="regular">7.25</price>
+        </prices>
+      </dish>
+      <dish name="Chiken Kabob Plate">
+        <description>Served with Rice, Salad and Pita Bread</description>
+        <prices>
+          <price name="regular">9.80</price>
+        </prices>
+      </dish>
+      <dish name="Vegetarian">
+        <description>Slice Tomatoes, Onion, Peppers, Mushrooms, Broccoli, Mozzarella<description>
+          <prices>
+            <price name="small">9.80</price>
+            <price name="large">15.80</price>
+          </prices>
+      </dish>
+    </category>
   </categories>
 </menu>
