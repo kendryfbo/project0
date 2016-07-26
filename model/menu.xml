@@ -60,7 +60,7 @@
     </category>
     <category name="Special Dinners">
       <dish name="Chiken Wing Dinner">
-        <description></description>
+        <description>Served with French Fries and Salad</description>
         <prices>
           <price name="regular">7.25</price>
         </prices>
@@ -68,14 +68,13 @@
       <dish name="Chiken Kabob Plate">
         <description>Served with Rice, Salad and Pita Bread</description>
         <prices>
-          <price name="regular">9.80</price>
+          <price name="regular">7.85</price>
         </prices>
       </dish>
-      <dish name="Vegetarian">
-        <description>Slice Tomatoes, Onion, Peppers, Mushrooms, Broccoli, Mozzarella<description>
+      <dish name="Steak Tips Dinner">
+        <description>Served with side Salad and French Fries</description>
           <prices>
-            <price name="small">9.80</price>
-            <price name="large">15.80</price>
+            <price name="regular">8.25</price>
           </prices>
       </dish>
     </category>
