@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <menu>
-  <categories>
-    <!-- por determinar si incluir categoria <type name="pizzas"> > <category name=""> -->
     <category name="Pizzas">
       <options />
-      <dishes>
         <dish name="Tomato $amp; Cheese">
           <description />
           <prices>
@@ -27,7 +24,6 @@
             <price name="large">10.85</price>
           </prices>
         </dish>
-      </dishes>
       <extras>
         <extra name="Extra Cheese">
           <description/>
@@ -40,7 +36,6 @@
     </category>
     <category name="Speciality Pizzas">
       <options />
-      <dishes>
         <dish name="Three Aces Special">
           <description />
           <prices>
@@ -62,12 +57,10 @@
             <price name="large">15.80</price>
           </prices>
         </dish>
-      </dishes>
       <extras />
     </category>
     <category name="Special Dinners">
       <options />
-      <dishes>
         <dish name="Chiken Wing Dinner">
           <description>Served with French Fries and Salad</description>
           <prices>
@@ -86,12 +79,10 @@
             <price name="regular">8.25</price>
           </prices>
         </dish>
-      </dishes>
       <extras />
     </category>
     <category name="Side Orders">}
       <options />
-      <dishes>
         <dish name="Onion Rings">
           <description/>
           <prices>
@@ -112,12 +103,10 @@
             <price name="large">5.75</price>
           </prices>
         </dish>
-      </dishes>
       <extras />
     </category>
     <category name="Salads">
       <options />
-      <dishes>
         <dish name="Garden">
           <description/>
           <prices>
@@ -139,7 +128,6 @@
             <price name="large">6.45</price>
           </prices>
         </dish>
-      </dishes>
       <extras />
     </category>
     <category name="Spaghetti or Ziti">
@@ -147,7 +135,6 @@
         <option>Spaghetii</option>
         <option>Ziti</option>
       </options>
-      <dishes>
         <dish name="With Sauce">
           <description/>
           <prices>
@@ -166,7 +153,6 @@
             <price name="regular">7.25</price>
           </prices>
         </dish>
-      </dishes>
       <extras />
     </category>
     <category name="Home made Lasagna Ravioli or Manicotti">
@@ -174,7 +160,6 @@
         <option>Home made Lasagna Ravioli</option>
         <option>Manicotti</option>
       </options>
-      <dishes>
         <dish name="With Sauce">
           <description>Served with Garlic Bread and Salad</description>
           <prices>
@@ -193,12 +178,10 @@
             <price name="regular">7.25</price>
           </prices>
         </dish>
-      </dishes>
       <extras />
     </category>
     <category name="Home made Calzones">
       <options />
-      <dishes>
         <dish name="Vegetarian">
           <description>With mushroms, Pepers and Orions</description>
           <prices>
@@ -217,12 +200,10 @@
             <price name="large">7.35</price>
           </prices>
         </dish>
-      </dishes>
       <extras />
     </category>
     <category name="Wraps">
       <options />
-      <dishes>
         <dish name="Turkey Club Wrap">
           <description>With Turkey, Cheese, Lettuce, Tomato, Onion and Mayo</description>
           <prices>
@@ -241,12 +222,10 @@
             <price name="regular">4.95</price>
           </prices>
         </dish>
-      </dishes>
       <extras />
     </category>
     <category name="Grinders">
       <options />
-      <dishes>
         <dish name="Meatless">
           <description />
           <prices>
@@ -268,8 +247,6 @@
             <price name="large">6.00</price>
           </prices>
         </dish>
-      </dishes>
       <extras />
     </category>
-  </categories>
 </menu>
