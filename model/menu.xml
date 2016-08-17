@@ -1,252 +1,252 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <menu>
-    <category name="Pizzas">
-      <options />
-        <dish name="Tomato $amp; Cheese">
-          <description />
-          <prices>
-            <price name="small">5.50</price>
-            <price name="large">9.75</price>
-          </prices>
-        </dish>
-        <dish name="Onions">
-          <description />
-          <prices>
-            <price name="small">6.85</price>
-            <price name="large">10.85</price>
-          </prices>
-        </dish>
-        <dish name="Peppers">
-          <description />
-          <prices>
-            <price name="small">6.85</price>
-            <price name="large">10.85</price>
-          </prices>
-        </dish>
-      <extras>
-        <extra name="Extra Cheese">
-          <description/>
-          <prices>
-            <price name="small">1.25</price>
-            <price name="large">1.85</price>
-          </prices>
-        </extra>
-      </extras>
-    </category>
-    <category name="Speciality Pizzas">
-      <options />
-        <dish name="Three Aces Special">
-          <description />
-          <prices>
-            <price name="small">9.80</price>
-            <price name="large">15.80</price>
-          </prices>
-        </dish>
-        <dish name="Mediterranean">
-          <description>Slice Tomatoes, Olives, Spinach, Fresh Garlic, Mozzarella $amp; Feta Chesse</description>
-          <prices>
-            <price name="small">9.80</price>
-            <price name="large">15.80</price>
-          </prices>
-        </dish>
-        <dish name="Vegetarian">
-          <description>Slice Tomatoes, Onion, Peppers, Mushrooms, Broccoli, Mozzarella</description>
-          <prices>
-            <price name="small">9.80</price>
-            <price name="large">15.80</price>
-          </prices>
-        </dish>
-      <extras />
-    </category>
-    <category name="Special Dinners">
-      <options />
-        <dish name="Chiken Wing Dinner">
-          <description>Served with French Fries and Salad</description>
-          <prices>
-            <price name="regular">7.25</price>
-          </prices>
-        </dish>
-        <dish name="Chiken Kabob Plate">
-          <description>Served with Rice, Salad and Pita Bread</description>
-          <prices>
-            <price name="regular">7.85</price>
-          </prices>
-        </dish>
-        <dish name="Steak Tips Dinner">
-          <description>Served with side Salad and French Fries</description>
-          <prices>
-            <price name="regular">8.25</price>
-          </prices>
-        </dish>
-      <extras />
-    </category>
-    <category name="Side Orders">}
-      <options />
-        <dish name="Onion Rings">
-          <description/>
-          <prices>
-            <price name="small">2.60</price>
-            <price name="large">2.95</price>
-          </prices>
-        </dish>
-        <dish name="French Fries">
-          <description/>
-          <prices>
-            <price name="small">2.25</price>
-            <price name="large">2.65</price>
-          </prices>
-        </dish>
-        <dish name="Chiken Wings">
-          <description/>
-          <prices>
-            <price name="large">5.75</price>
-          </prices>
-        </dish>
-      <extras />
-    </category>
-    <category name="Salads">
-      <options />
-        <dish name="Garden">
-          <description/>
-          <prices>
-            <price name="small">3.50</price>
-            <price name="large">4.50</price>
-          </prices>
-        </dish>
-        <dish name="Greek">
-          <description/>
-          <prices>
-            <price name="small">4.50</price>
-            <price name="large">5.50</price>
-          </prices>
-        </dish>
-        <dish name="Kabob Salad">
-          <description>With grilled Chicken and Feta Cheese</description>
-          <prices>
-            <price name="small">5.45</price>
-            <price name="large">6.45</price>
-          </prices>
-        </dish>
-      <extras />
-    </category>
-    <category name="Spaghetti or Ziti">
-      <options>
-        <option>Spaghetii</option>
-        <option>Ziti</option>
-      </options>
-        <dish name="With Sauce">
-          <description/>
-          <prices>
-            <price name="regular">5.40</price>
-          </prices>
-        </dish>
-        <dish name="A la Three Aces">
-          <description>Sausage, Mushrooms, Bacon and Ham Topped with Sauce and Mozzarela Cheese</description>
-          <prices>
-            <price name="regular">7.75</price>
-          </prices>
-        </dish>
-        <dish name="EggPlant dinner">
-          <description>With Mozzarela Cheese</description>
-          <prices>
-            <price name="regular">7.25</price>
-          </prices>
-        </dish>
-      <extras />
-    </category>
-    <category name="Home made Lasagna Ravioli or Manicotti">
-      <options>
-        <option>Home made Lasagna Ravioli</option>
-        <option>Manicotti</option>
-      </options>
-        <dish name="With Sauce">
-          <description>Served with Garlic Bread and Salad</description>
-          <prices>
-            <price name="regular">6.25</price>
-          </prices>
-        </dish>
-        <dish name="With Sausage">
-          <description>Served with Garlic Bread and Salad</description>
-          <prices>
-            <price name="regular">7.25</price>
-          </prices>
-        </dish>
-        <dish name="With Meatball">
-          <description>Served with Garlic Bread and Salad</description>
-          <prices>
-            <price name="regular">7.25</price>
-          </prices>
-        </dish>
-      <extras />
-    </category>
-    <category name="Home made Calzones">
-      <options />
-        <dish name="Vegetarian">
-          <description>With mushroms, Pepers and Orions</description>
-          <prices>
-            <price name="large">7.35</price>
-          </prices>
-        </dish>
-        <dish name="Italian">
-          <description>With mushroms, Pepers and Orions</description>
-          <prices>
-            <price name="large">7.35</price>
-          </prices>
-        </dish>
-        <dish name="Grecian">
-          <description>With Fresh Tomatoes, Spinach and Feta</description>
-          <prices>
-            <price name="large">7.35</price>
-          </prices>
-        </dish>
-      <extras />
-    </category>
-    <category name="Wraps">
-      <options />
-        <dish name="Turkey Club Wrap">
-          <description>With Turkey, Cheese, Lettuce, Tomato, Onion and Mayo</description>
-          <prices>
-            <price name="regular">4.95</price>
-          </prices>
-        </dish>
-        <dish name="Chicken Cobb">
-          <description>With Grilled Chicken, Bacon, Cheese, Lettuce, Tomatop, Onion and Mayo</description>
-          <prices>
-            <price name="regular">4.95</price>
-          </prices>
-        </dish>
-        <dish name="Steak Wrap">
-          <description />
-          <prices>
-            <price name="regular">4.95</price>
-          </prices>
-        </dish>
-      <extras />
-    </category>
-    <category name="Grinders">
-      <options />
-        <dish name="Meatless">
-          <description />
-          <prices>
-            <price name="small">4.50</price>
-            <price name="large">4.95</price>
-          </prices>
-        </dish>
-        <dish name="Three Aces Special">
-          <description>Turkey, Roast and Beaf</description>
-          <prices>
-            <price name="small">5.30</price>
-            <price name="large">6.40</price>
-          </prices>
-        </dish>
-        <dish name="Cheese Steak">
-          <description />
-          <prices>
-            <price name="small">5.10</price>
-            <price name="large">6.00</price>
-          </prices>
-        </dish>
-      <extras />
-    </category>
+  <category name="Pizzas">
+    <dish name="Tomato $amp; Cheese">
+      <description />
+      <prices>
+        <price name="small">5.50</price>
+        <price name="large">9.75</price>
+      </prices>
+    </dish>
+    <dish name="Onions">
+      <description />
+      <prices>
+        <price name="small">6.85</price>
+        <price name="large">10.85</price>
+      </prices>
+    </dish>
+    <dish name="Peppers">
+        <description />
+        <prices>
+          <price name="small">6.85</price>
+          <price name="large">10.85</price>
+        </prices>
+      </dish>
+    <options />
+    <extras>
+      <extra name="Extra Cheese">
+        <description/>
+        <prices>
+          <price name="small">1.25</price>
+          <price name="large">1.85</price>
+        </prices>
+      </extra>
+    </extras>
+  </category>
+  <category name="Speciality Pizzas">
+    <dish name="Three Aces Special">
+      <description />
+      <prices>
+        <price name="small">9.80</price>
+        <price name="large">15.80</price>
+      </prices>
+    </dish>
+    <dish name="Mediterranean">
+      <description>Slice Tomatoes, Olives, Spinach, Fresh Garlic, Mozzarella $amp; Feta Chesse</description>
+      <prices>
+        <price name="small">9.80</price>
+        <price name="large">15.80</price>
+      </prices>
+    </dish>
+    <dish name="Vegetarian">
+      <description>Slice Tomatoes, Onion, Peppers, Mushrooms, Broccoli, Mozzarella</description>
+      <prices>
+        <price name="small">9.80</price>
+        <price name="large">15.80</price>
+      </prices>
+    </dish>
+    <options />
+    <extras />
+  </category>
+  <category name="Special Dinners">
+    <dish name="Chiken Wing Dinner">
+      <description>Served with French Fries and Salad</description>
+      <prices>
+        <price name="regular">7.25</price>
+      </prices>
+    </dish>
+    <dish name="Chiken Kabob Plate">
+      <description>Served with Rice, Salad and Pita Bread</description>
+      <prices>
+        <price name="regular">7.85</price>
+      </prices>
+    </dish>
+    <dish name="Steak Tips Dinner">
+      <description>Served with side Salad and French Fries</description>
+      <prices>
+        <price name="regular">8.25</price>
+      </prices>
+    </dish>
+    <options />
+    <extras />
+  </category>
+  <category name="Side Orders">}
+    <dish name="Onion Rings">
+      <description/>
+      <prices>
+        <price name="small">2.60</price>
+        <price name="large">2.95</price>
+      </prices>
+    </dish>
+    <dish name="French Fries">
+      <description/>
+      <prices>
+        <price name="small">2.25</price>
+        <price name="large">2.65</price>
+      </prices>
+    </dish>
+    <dish name="Chiken Wings">
+        <description/>
+        <prices>
+          <price name="large">5.75</price>
+        </prices>
+      </dish>
+    <options />
+    <extras />
+  </category>
+  <category name="Salads">
+    <options />
+      <dish name="Garden">
+        <description/>
+        <prices>
+          <price name="small">3.50</price>
+          <price name="large">4.50</price>
+        </prices>
+      </dish>
+      <dish name="Greek">
+        <description/>
+        <prices>
+          <price name="small">4.50</price>
+          <price name="large">5.50</price>
+        </prices>
+      </dish>
+      <dish name="Kabob Salad">
+        <description>With grilled Chicken and Feta Cheese</description>
+        <prices>
+          <price name="small">5.45</price>
+          <price name="large">6.45</price>
+        </prices>
+      </dish>
+    <extras />
+  </category>
+  <category name="Spaghetti or Ziti">
+    <dish name="With Sauce">
+      <description/>
+      <prices>
+        <price name="regular">5.40</price>
+      </prices>
+    </dish>
+    <dish name="A la Three Aces">
+      <description>Sausage, Mushrooms, Bacon and Ham Topped with Sauce and Mozzarela Cheese</description>
+      <prices>
+        <price name="regular">7.75</price>
+      </prices>
+    </dish>
+    <dish name="EggPlant dinner">
+        <description>With Mozzarela Cheese</description>
+        <prices>
+          <price name="regular">7.25</price>
+        </prices>
+      </dish>
+    <options>
+      <option>Spaghetii</option>
+      <option>Ziti</option>
+    </options>
+    <extras />
+  </category>
+  <category name="Home made Lasagna Ravioli or Manicotti">
+    <dish name="With Sauce">
+      <description>Served with Garlic Bread and Salad</description>
+      <prices>
+        <price name="regular">6.25</price>
+      </prices>
+    </dish>
+    <dish name="With Sausage">
+      <description>Served with Garlic Bread and Salad</description>
+      <prices>
+        <price name="regular">7.25</price>
+      </prices>
+    </dish>
+    <dish name="With Meatball">
+        <description>Served with Garlic Bread and Salad</description>
+        <prices>
+          <price name="regular">7.25</price>
+        </prices>
+      </dish>
+    <options>
+      <option>Home made Lasagna Ravioli</option>
+      <option>Manicotti</option>
+    </options>
+    <extras />
+  </category>
+  <category name="Home made Calzones">
+    <dish name="Vegetarian">
+      <description>With mushroms, Pepers and Orions</description>
+      <prices>
+        <price name="large">7.35</price>
+      </prices>
+    </dish>
+    <dish name="Italian">
+      <description>With mushroms, Pepers and Orions</description>
+      <prices>
+        <price name="large">7.35</price>
+      </prices>
+    </dish>
+    <dish name="Grecian">
+        <description>With Fresh Tomatoes, Spinach and Feta</description>
+        <prices>
+          <price name="large">7.35</price>
+        </prices>
+      </dish>
+    <options />
+    <extras />
+  </category>
+  <category name="Wraps">
+    <dish name="Turkey Club Wrap">
+      <description>With Turkey, Cheese, Lettuce, Tomato, Onion and Mayo</description>
+      <prices>
+        <price name="regular">4.95</price>
+      </prices>
+    </dish>
+    <dish name="Chicken Cobb">
+      <description>With Grilled Chicken, Bacon, Cheese, Lettuce, Tomatop, Onion and Mayo</description>
+      <prices>
+        <price name="regular">4.95</price>
+      </prices>
+    </dish>
+    <dish name="Steak Wrap">
+      <description />
+      <prices>
+        <price name="regular">4.95</price>
+      </prices>
+    </dish>
+    <options />
+    <extras />
+  </category>
+  <category name="Grinders">
+    <dish name="Meatless">
+      <description />
+      <prices>
+        <price name="small">4.50</price>
+        <price name="large">4.95</price>
+      </prices>
+    </dish>
+    <dish name="Three Aces Special">
+      <description>Turkey, Roast and Beaf</description>
+      <prices>
+        <price name="small">5.30</price>
+        <price name="large">6.40</price>
+      </prices>
+    </dish>
+    <dish name="Cheese Steak">
+        <description />
+        <prices>
+          <price name="small">5.10</price>
+          <price name="large">6.00</price>
+        </prices>
+      </dish>
+    <options />
+    <extras />
+  </category>
 </menu>
