@@ -2,7 +2,7 @@
 
 <menu>
   <category name="Pizzas">
-    <dish name="Tomato $amp; Cheese">
+    <dish name="Tomato and Cheese">
       <description />
       <prices>
         <price name="small">5.50</price>
