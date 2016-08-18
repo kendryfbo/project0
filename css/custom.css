@@ -1,0 +1,68 @@
+body {
+  font-family: "Open Sans";
+  background-color: rgba(177, 177, 177, 0.29) !important;
+  padding-top: 60px;
+
+}
+
+/* color de Barra de Navegacion */
+.navbar-default {
+  background-color: rgba(0, 25, 129, 1);
+  border-color:  rgba(0, 20, 101, 1);
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: rgba(255, 255, 255, 1);
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: rgba(255, 255, 255, 0.8);
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(0, 25, 75, 1);
+}
+
+/* Color de Logo de Barra de Navegacion */
+.navbar-default .navbar-brand {
+  font-family: 'Lobster', cursive;
+  color: rgba(255, 255, 255, 1);
+  font-size: 22px;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* Color de Panel de Orden */
+
+.panel-primary {
+  border-color: rgba(0, 25, 129, 1);
+}
+.panel-primary > .panel-heading {
+  color: #fff;
+  background-color: rgba(0, 25, 129, 1);
+  border-color: rgba(0, 25, 129, 1);
+}
+
+
+.btn-checkout {
+  color: #fff;
+  background-color: rgba(0, 25, 129, 1);
+  border-color: rgba(0, 25, 129, 1);
+}
+.btn-checkout:focus,
+.btn-checkout.focus {
+  color: #fff;
+  background-color: rgba(0, 25, 129, 1);
+  border-color: rgba(0, 17, 87, 1);
+}
+.btn-checkout:hover {
+  color: #fff;
+  background-color: rgba(0, 15, 80, 1);
+  border-color: rgba(0, 17, 87, 1);
+}
