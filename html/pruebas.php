@@ -1,6 +1,6 @@
 <?php
 session_start();
-
+session_destroy();
 require_once("../include/helpers.php");
 
 $order = array();
@@ -10,7 +10,7 @@ if  (!isset($_SESSION['test'])) {
 
 }
 
-$order[] = "naranja";
+$order[] = "naranja con mermelada";
 $_SESSION['order'] = $order;
 
 

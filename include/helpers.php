@@ -18,4 +18,12 @@ function renderMenu () {
     require("../templates/order.php");
   }
 }
+
+function orderTotal($order) {
+  $total = 0;
+  foreach ($order as $item) {
+    $total = $total + $item['total'];
+  }
+  return $total;
+}
  ?>

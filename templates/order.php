@@ -3,16 +3,22 @@
     <div class="well col-lg-7">
       <h1 ><span class="label label-default">menu</span></h1>
       <br>
-      <?php if ($error) {
-        print ('<div class="alert alert-danger" role="alert"><p>Debe seleccionar la cantidad</p></div>');
-        }
-      ?>
+
+      <?php if ($_SESSION['error']) : ?>
+
+        <div class="alert alert-danger" role="alert">
+          <p><?= $_SESSION["errorMsg"] ?></p>
+        </div>
+
+      <?php endif; ?>
+
       <!-- Load the menu to the page -->
-      <?= require("../templates/menu.php") ?>
+      <?php require("../templates/menu.php") ?>
+
     </div>
     <div class="col-lg-5">
       <!-- Load the Aside of pre-order -->
-      <?= require("../templates/pre_order.php") ?>
+      <?php require("../templates/pre_order.php") ?>
     </div>
   </div>
 </div>
